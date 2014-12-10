@@ -6,6 +6,6 @@ evenSum = accumSum 0
         accumSum n (x:xs) =
              if even x
                 then accumSum (n+x) xs
-                else accumSum n xs 
+                else accumSum n xs
 
 main = print $ evenSum [1..10]
