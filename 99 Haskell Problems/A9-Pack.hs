@@ -5,6 +5,7 @@
                 If a list contains repeated elements they should be placed
                 in separate sublists.
 -}
+--------------------------------------------------------------------------------
 
 module Pack where
 

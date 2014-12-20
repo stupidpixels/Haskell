@@ -3,6 +3,7 @@
     CODE BY   : Frank Gonzalez
     PROBLEM 7 : Flatten a nested list.
 -}
+--------------------------------------------------------------------------------
 
 module Flatter where
 

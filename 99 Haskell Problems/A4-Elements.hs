@@ -3,6 +3,7 @@
     CODE BY   : Frank Gonzalez
     PROBLEM 4 : Find the number of elements of a list.
 -}
+--------------------------------------------------------------------------------
 
 module Elements where
 

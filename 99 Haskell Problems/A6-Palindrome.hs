@@ -3,6 +3,7 @@
     CODE BY   : Frank Gonzalez
     PROBLEM 6 : Check if palindrome.
 -}
+--------------------------------------------------------------------------------
 
 module Paliondrome where
 

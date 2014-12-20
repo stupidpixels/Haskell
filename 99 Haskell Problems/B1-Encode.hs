@@ -3,6 +3,7 @@
     CODE BY    : Frank Gonzalez
     PROBLEM 10 : Run-length encoding of a list.
 -}
+--------------------------------------------------------------------------------
 
 module Encode where
 

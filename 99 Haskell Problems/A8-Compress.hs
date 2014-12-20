@@ -3,6 +3,7 @@
     CODE BY   : Frank Gonzalez
     PROBLEM 8 : Eliminate consecutive duplicates of list elements.
 -}
+--------------------------------------------------------------------------------
 
 module Compress where
 

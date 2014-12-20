@@ -3,6 +3,7 @@
     CODE BY    : Frank Gonzalez
     PROBLEM 11 : Modified run-length encoding of a list.
 -}
+--------------------------------------------------------------------------------
 
 module EncodeMod where
 

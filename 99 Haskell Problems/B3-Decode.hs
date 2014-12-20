@@ -3,6 +3,7 @@
     CODE BY    : Frank Gonzalez
     PROBLEM 12 : Decode a run-length encoded list.
 -}
+--------------------------------------------------------------------------------
 
 module Decode where
 
@@ -14,6 +15,5 @@ data ListItem a = Single a | Multiple Int a
 decode :: [ListItem b] -> [b]
 decode = concatMap modList
     where
---
         modList (Single n) = [n]
         modList (Multiple x n) = replicate x n
