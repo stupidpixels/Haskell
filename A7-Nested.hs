@@ -4,6 +4,8 @@
     PROBLEM 7 : Flatten a nested list.
 -}
 
+module Flatter where
+
 -- New data type to handle nested lists in Haskell.
 data NestedList a = Elem a | List [NestedList a]
 

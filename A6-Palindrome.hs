@@ -4,6 +4,8 @@
     PROBLEM 6 : Check if palindrome.
 -}
 
+module Paliondrome where
+
 palindrome :: (Eq a) => [a] -> Bool
 palindrome []   = False
 

@@ -4,6 +4,8 @@
     PROBLEM 5 : Reverse a list.
 -}
 
+module Backwards where
+
 backwards :: [a] -> [a]
 backwards list = backed list []
     where

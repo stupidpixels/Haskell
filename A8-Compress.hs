@@ -4,6 +4,8 @@
     PROBLEM 8 : Eliminate consecutive duplicates of list elements.
 -}
 
+module Compress where
+
 -- We need the GROUP function in Data.List to join all the duplicates together.
 import Data.List(group)
 

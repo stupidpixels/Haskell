@@ -4,6 +4,8 @@
     PROBLEM 4 : Find the number of elements of a list.
 -}
 
+module Elements where
+
 elements :: [a] -> Int
 elements []   = error "EMPTY LIST"
 elements list = accum list 0

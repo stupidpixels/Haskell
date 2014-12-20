@@ -4,6 +4,8 @@
     PROBLEM 3 : Find the K'th element of a list. (One Based)
 -}
 
+module KTH where
+
 kTh :: [a] -> Int -> a
 kTh [] n   = error "EMPTY LIST"
 kTh list i = list !! (i-1)
