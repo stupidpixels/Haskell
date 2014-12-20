@@ -6,6 +6,8 @@
 
 -}
 
+module Fibs where
+
 -- This function calculates the Fibonacci sequence.
 fib :: Int -> Int
 fib n
