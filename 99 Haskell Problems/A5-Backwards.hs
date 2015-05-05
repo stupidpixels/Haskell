@@ -1,9 +1,3 @@
-{-
-    PROJECT   : Ninety-Nine Haskell Problems
-    CODE BY   : Frank Gonzalez
-    PROBLEM 5 : Reverse a list.
--}
---------------------------------------------------------------------------------
 
 module Backwards where
 

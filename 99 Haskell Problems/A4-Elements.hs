@@ -8,7 +8,7 @@
 module Elements where
 
 elements :: [a] -> Int
-elements []   = error "EMPTY LIST"
+elements []   = Nothing
 elements list = accum list 0
     where
         accum [] n     = n
